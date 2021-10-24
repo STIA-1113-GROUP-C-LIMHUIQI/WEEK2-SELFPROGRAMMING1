@@ -1,0 +1,13 @@
+package exercise1;
+
+public class QuickCheck2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("\"Thank you all for coming to my home\n" +
+							"tonight,\" he said mysteriously.");
+
+	}
+
+}
